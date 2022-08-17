@@ -12,6 +12,22 @@ img {
   font-weight: 900;
 }
 
+.top-section{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.middle-section{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.one.two.three.four{
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
